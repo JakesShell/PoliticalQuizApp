@@ -1,9 +1,9 @@
 # PoliticalQuizApp
 This repository contains a Java application designed to help users determine their political affiliation through a quiz. The PoliticalQuizApp uses a series of questions and weighted answers from different political parties to analyze user responses and provide insights into their political leanings.
 
-<u><b>Features:</b></u>
+<b>Features:</b>
 
-Multiple Political Parties: The app includes predefined answers for Democratic, Republican, Independent, and Progressive parties.
+<i>Multiple Political Parties:</i> The app includes predefined answers for Democratic, Republican, Independent, and Progressive parties.
 Weighted Scoring System: Each answer carries a weight that reflects its significance, allowing for a nuanced analysis of user responses.
 User Interaction: Users are prompted to answer a series of questions, with their selections impacting the final score.
 Data Persistence: User answers are saved to and loaded from a file, ensuring that progress can be resumed later.
